@@ -22,9 +22,11 @@ namespace BookLoversLibraryAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddUser(User user) {
 
-            if (await _bookLibraryServiceLayer.AddUser(user)!=-1)
+            int id = 0;
+            id = await _bookLibraryServiceLayer.AddUser(user);
+            if (id!=-1)
             {
-                return Ok("Your Response Added Successfully");
+                return Ok(id);
             }
             else {
                 return BadRequest("Response from this mobile number already recorded");

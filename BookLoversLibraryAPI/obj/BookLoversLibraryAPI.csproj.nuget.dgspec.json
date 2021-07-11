@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {}
+    "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
+    "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
+        "projectUniqueName": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
         "projectName": "BookLoversLibrary.Repo",
-        "projectPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
-        "packagesPath": "C:\\Users\\Samarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\obj\\",
+        "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
+        "packagesPath": "C:\\Users\\v-varuntomar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\v-varuntomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,28 +78,25 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
+    "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
+        "projectUniqueName": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
         "projectName": "BookLoversLibrary.ServiceLayer",
-        "projectPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
-        "packagesPath": "C:\\Users\\Samarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\obj\\",
+        "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
+        "packagesPath": "C:\\Users\\v-varuntomar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\v-varuntomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,8 +110,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
-                "projectPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
+              "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
+                "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
               }
             }
           }
@@ -139,28 +136,25 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {
+    "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+        "projectUniqueName": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
         "projectName": "BookLoversLibraryAPI",
-        "projectPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
-        "packagesPath": "C:\\Users\\Samarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\obj\\",
+        "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+        "packagesPath": "C:\\Users\\v-varuntomar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\v-varuntomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,11 +168,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
-                "projectPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
+              "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
+                "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
               },
-              "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
-                "projectPath": "C:\\Users\\Samarth\\source\\repos\\New folder\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj"
+              "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
+                "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj"
               }
             }
           }
@@ -218,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

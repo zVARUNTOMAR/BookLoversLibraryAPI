@@ -25,8 +25,7 @@ namespace BookLoversLibrary.Repo
                 await _dbContext.users.AddAsync(user);
                 await _dbContext.SaveChangesAsync();
 
-                int id=user.Id;
-                return id;
+                return user.Id;
             }
         }
     }

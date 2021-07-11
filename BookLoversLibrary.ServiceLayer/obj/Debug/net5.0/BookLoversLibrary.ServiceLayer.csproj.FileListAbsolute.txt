@@ -28,3 +28,18 @@ C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.
 C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.dll
 C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\ref\BookLoversLibrary.ServiceLayer.dll
 C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.pdb
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\bin\Debug\net5.0\BookLoversLibrary.ServiceLayer.deps.json
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\bin\Debug\net5.0\BookLoversLibrary.ServiceLayer.dll
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\bin\Debug\net5.0\ref\BookLoversLibrary.ServiceLayer.dll
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\bin\Debug\net5.0\BookLoversLibrary.ServiceLayer.pdb
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\bin\Debug\net5.0\BookLoversLibrary.Repo.dll
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\bin\Debug\net5.0\BookLoversLibrary.Repo.pdb
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.csproj.AssemblyReference.cache
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.AssemblyInfoInputs.cache
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.AssemblyInfo.cs
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.csproj.CopyComplete
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.dll
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\ref\BookLoversLibrary.ServiceLayer.dll
+C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.ServiceLayer\obj\Debug\net5.0\BookLoversLibrary.ServiceLayer.pdb
