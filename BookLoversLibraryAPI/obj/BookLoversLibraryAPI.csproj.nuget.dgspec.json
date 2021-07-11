@@ -4,14 +4,14 @@
     "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {
+    "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
-        "projectName": "BookLoversLibraryAPI",
-        "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+        "projectUniqueName": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
+        "projectName": "BookLoversLibrary.Repo",
+        "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
         "packagesPath": "C:\\Users\\R3CK3R\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\obj\\",
+        "outputPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,166 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
+        "projectName": "BookLoversLibrary.ServiceLayer",
+        "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
+        "packagesPath": "C:\\Users\\R3CK3R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\R3CK3R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
+                "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+        "projectName": "BookLoversLibraryAPI",
+        "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+        "packagesPath": "C:\\Users\\R3CK3R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\R3CK3R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
+                "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
+              },
+              "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
+                "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
             }
           },
           "imports": [
