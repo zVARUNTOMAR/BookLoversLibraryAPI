@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BookLoversLibrary.Repo;
+using BookLoversLibrary.Repo.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +10,15 @@ namespace BookLoversLibrary.ServiceLayer
 {
     public class BookLoversLibraryServiceLayer : IBookLoversLibraryServiceLayer
     {
+        IBookLoversLibraryRepoLayer _bookLoversLibraryRepoLayer;
+        public BookLoversLibraryServiceLayer(IBookLoversLibraryRepoLayer bookLoversLibraryRepoLayer)
+        {
+            _bookLoversLibraryRepoLayer = bookLoversLibraryRepoLayer;
+        }
+
+        public async Task<bool> AddUser(User user)
+        {
+            return await _bookLoversLibraryRepoLayer.AddUser(user);
+        }
     }
 }
