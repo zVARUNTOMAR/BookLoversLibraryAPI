@@ -10,6 +10,6 @@ namespace BookLoversLibrary.ServiceLayer
     public interface IBookLoversLibraryServiceLayer
     {
         //To Add New User
-        public Task<bool> AddUser(User user);
+        public Task<int> AddUser(User user);
     }
 }

@@ -16,15 +16,17 @@ namespace BookLoversLibrary.Repo
             _dbContext = dbContext;
         }
 
-        public async Task<bool> AddUser(User user)
+        public async Task<int> AddUser(User user)
         {
             if (await _dbContext.users.AnyAsync(x => x.MobileNumber == user.MobileNumber)) {
-                return false;
+                return -1;
             }
             else {
                 await _dbContext.users.AddAsync(user);
                 await _dbContext.SaveChangesAsync();
-                return true;
+
+                int id=user.Id;
+                return id;
             }
         }
     }

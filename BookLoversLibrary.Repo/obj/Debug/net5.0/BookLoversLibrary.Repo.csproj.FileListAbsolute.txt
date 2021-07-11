@@ -13,3 +13,18 @@ C:\Users\R3CK3R\source\repos\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Deb
 C:\Users\R3CK3R\source\repos\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\ref\BookLoversLibrary.Repo.dll
 C:\Users\R3CK3R\source\repos\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.pdb
 C:\Users\R3CK3R\source\repos\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.genruntimeconfig.cache
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.deps.json
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.runtimeconfig.json
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.runtimeconfig.dev.json
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.dll
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\ref\BookLoversLibrary.Repo.dll
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.pdb
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.csprojAssemblyReference.cache
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.AssemblyInfoInputs.cache
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.AssemblyInfo.cs
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.dll
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\ref\BookLoversLibrary.Repo.dll
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.pdb
+C:\Users\Samarth\source\repos\New folder\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.genruntimeconfig.cache

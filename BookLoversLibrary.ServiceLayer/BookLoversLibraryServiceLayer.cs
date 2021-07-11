@@ -16,7 +16,7 @@ namespace BookLoversLibrary.ServiceLayer
             _bookLoversLibraryRepoLayer = bookLoversLibraryRepoLayer;
         }
 
-        public async Task<bool> AddUser(User user)
+        public async Task<int> AddUser(User user)
         {
             return await _bookLoversLibraryRepoLayer.AddUser(user);
         }

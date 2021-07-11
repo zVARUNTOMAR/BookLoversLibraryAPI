@@ -22,7 +22,7 @@ namespace BookLoversLibraryAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddUser(User user) {
 
-            if (await _bookLibraryServiceLayer.AddUser(user))
+            if (await _bookLibraryServiceLayer.AddUser(user)!=-1)
             {
                 return Ok("Your Response Added Successfully");
             }
