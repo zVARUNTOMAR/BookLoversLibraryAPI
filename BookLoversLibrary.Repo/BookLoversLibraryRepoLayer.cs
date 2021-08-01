@@ -28,5 +28,9 @@ namespace BookLoversLibrary.Repo
                 return user.Id;
             }
         }
+        public async Task<IEnumerable<User>> GetUsers()
+        {
+            return await _dbContext.users.ToListAsync();
+        }
     }
 }

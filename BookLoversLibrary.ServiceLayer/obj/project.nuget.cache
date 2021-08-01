@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cIcgWKb1CiUQa2rFpx5TLhdrYmHfcXR6CFwtNZmtj4dVV169DfkC9dMOzMRcZauKV5LesF/JN7nv1b0o8SnXPQ==",
+  "dgSpecHash": "cuOwq47mLa+SzysU2HnOXSF/va373m38LP+kl0qseudElyJw4VNSXOe7W1flwBCj54MBS3+1Dn027j+Z/S64iQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj",
   "expectedPackageFiles": [

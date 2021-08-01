@@ -32,5 +32,11 @@ namespace BookLoversLibraryAPI.Controllers
                 return BadRequest("Response from this mobile number already recorded");
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetUsers() {
+
+            return Ok(await _bookLibraryServiceLayer.GetUsers());
+        }
     }
 }

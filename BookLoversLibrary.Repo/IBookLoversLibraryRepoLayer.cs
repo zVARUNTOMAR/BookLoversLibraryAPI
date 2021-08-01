@@ -11,5 +11,8 @@ namespace BookLoversLibrary.Repo
     {
         //To Add New User
         public Task<int> AddUser(User user);
+
+        //To Show Users
+        public Task<IEnumerable<User>> GetUsers();
     }
 }

@@ -11,5 +11,8 @@ namespace BookLoversLibrary.ServiceLayer
     {
         //To Add New User
         public Task<int> AddUser(User user);
+
+        //To Get All User
+        public Task<IEnumerable<User>> GetUsers();
     }
 }

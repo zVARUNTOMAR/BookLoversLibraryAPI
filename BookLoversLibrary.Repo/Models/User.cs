@@ -23,5 +23,11 @@ namespace BookLoversLibrary.Repo.Models
         public string City { get; set; }
 
         public string Message { get; set; }
+
+        public DateTime ResponseTime { get; set; }
+
+        public string Slot { get; set; }
+
+        public string Pack { get; set; }
     }
 }

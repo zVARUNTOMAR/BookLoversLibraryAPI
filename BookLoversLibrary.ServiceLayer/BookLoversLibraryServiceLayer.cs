@@ -20,5 +20,11 @@ namespace BookLoversLibrary.ServiceLayer
         {
             return await _bookLoversLibraryRepoLayer.AddUser(user);
         }
+
+        public async Task<IEnumerable<User>> GetUsers() {
+            
+            return await _bookLoversLibraryRepoLayer.GetUsers();
+        }
+
     }
 }
