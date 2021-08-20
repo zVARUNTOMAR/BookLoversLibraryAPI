@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fcS2xjX06YeuJRjtq8w4Ewyyekeh41QmRsRHnifJYV0konPOf2QLPg8UncqCQrQSNAx/N+++vA4yKTTy192MLw==",
+  "dgSpecHash": "+VJgK+UnDIx754JhLCwggMeWqly6nVlSaV8ZOJXOTXrJWBeKDpzyvSCCOXn0vpYY5e+Xiw7xVlwnMzZl0L0Lkg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,9 @@
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.1\\microsoft.identitymodel.jsonwebtokens.6.12.1.nupkg.sha512",
+    "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.1\\microsoft.identitymodel.logging.6.12.1.nupkg.sha512",
+    "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.1\\microsoft.identitymodel.tokens.6.12.1.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
@@ -47,7 +50,9 @@
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.1\\system.identitymodel.tokens.jwt.6.12.1.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\v-varuntomar\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

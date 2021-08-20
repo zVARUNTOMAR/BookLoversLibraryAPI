@@ -1,4 +1,5 @@
-﻿using BookLoversLibrary.Repo.Models;
+﻿using BookLoversLibrary.Repo.DTOs;
+using BookLoversLibrary.Repo.Models;
 using BookLoversLibrary.ServiceLayer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -37,6 +38,14 @@ namespace BookLoversLibraryAPI.Controllers
         public async Task<IActionResult> GetUsers() {
 
             return Ok(await _bookLibraryServiceLayer.GetUsers());
+        }
+
+        [HttpPost("register")]
+
+        public async Task<IActionResult> RegisterAdmin(LoginDTO loginDTO) {
+
+            int adminId = await _bookLibraryServiceLayer.RegisterAdmin(loginDTO);
+            return Ok(adminId);
         }
     }
 }

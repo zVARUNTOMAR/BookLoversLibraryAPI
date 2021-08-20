@@ -34,7 +34,6 @@ C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLov
 C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.dll
 C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\ref\BookLoversLibrary.Repo.dll
 C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\bin\Debug\net5.0\BookLoversLibrary.Repo.pdb
-C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.csproj.AssemblyReference.cache
 C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.AssemblyInfoInputs.cache
 C:\Projects\BookLoversLibraryAPI\BookLoversLibrary.Repo\obj\Debug\net5.0\BookLoversLibrary.Repo.AssemblyInfo.cs

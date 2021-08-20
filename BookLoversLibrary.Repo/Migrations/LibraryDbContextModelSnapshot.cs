@@ -16,6 +16,26 @@ namespace BookLoversLibrary.Repo.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "5.0.7");
 
+            modelBuilder.Entity("BookLoversLibrary.Repo.Models.Admin", b =>
+                {
+                    b.Property<int>("AdminId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<byte[]>("PasswordHash")
+                        .HasColumnType("BLOB");
+
+                    b.Property<byte[]>("PasswordSalt")
+                        .HasColumnType("BLOB");
+
+                    b.Property<string>("Username")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("AdminId");
+
+                    b.ToTable("admins");
+                });
+
             modelBuilder.Entity("BookLoversLibrary.Repo.Models.User", b =>
                 {
                     b.Property<int>("Id")

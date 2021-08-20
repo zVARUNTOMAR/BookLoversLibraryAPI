@@ -1,4 +1,5 @@
 ﻿using BookLoversLibrary.Repo;
+using BookLoversLibrary.Repo.DTOs;
 using BookLoversLibrary.Repo.Models;
 using System;
 using System.Collections.Generic;
@@ -24,6 +25,10 @@ namespace BookLoversLibrary.ServiceLayer
         public async Task<IEnumerable<User>> GetUsers() {
             
             return await _bookLoversLibraryRepoLayer.GetUsers();
+        }
+
+        public async Task<int> RegisterAdmin(LoginDTO loginDTO) {
+            return await _bookLoversLibraryRepoLayer.RegisterAdmin(loginDTO);
         }
 
     }

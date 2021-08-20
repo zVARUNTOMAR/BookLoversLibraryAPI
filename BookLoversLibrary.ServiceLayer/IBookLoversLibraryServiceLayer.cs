@@ -1,4 +1,5 @@
-﻿using BookLoversLibrary.Repo.Models;
+﻿using BookLoversLibrary.Repo.DTOs;
+using BookLoversLibrary.Repo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,7 @@ namespace BookLoversLibrary.ServiceLayer
 
         //To Get All User
         public Task<IEnumerable<User>> GetUsers();
+
+        public Task<int> RegisterAdmin(LoginDTO loginDTO);
     }
 }
