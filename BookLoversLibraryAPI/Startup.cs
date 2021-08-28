@@ -61,7 +61,7 @@ namespace BookLoversLibraryAPI
             services.AddScoped<ITokenAdmin, TokenAdmin>();
             services.AddDbContextPool<LibraryDbContext>(options =>
             {
-                options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"));
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
 
             services.AddSwaggerGen(c =>
