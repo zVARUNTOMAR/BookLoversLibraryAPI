@@ -6195,24 +6195,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\R3CK3R\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\v-varuntomar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+      "projectUniqueName": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
       "projectName": "BookLoversLibraryAPI",
-      "projectPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
-      "packagesPath": "C:\\Users\\R3CK3R\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\obj\\",
+      "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\BookLoversLibraryAPI.csproj",
+      "packagesPath": "C:\\Users\\v-varuntomar\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibraryAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\R3CK3R\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\v-varuntomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6226,11 +6221,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
-              "projectPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
+            "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj": {
+              "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.Repo\\BookLoversLibrary.Repo.csproj"
             },
-            "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\R3CK3R\\Desktop\\WD_2020\\BookLib\\BookLoversLibraryAPI2\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj"
+            "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj": {
+              "projectPath": "C:\\Projects\\BookLoversLibraryAPI\\BookLoversLibrary.ServiceLayer\\BookLoversLibrary.ServiceLayer.csproj"
             }
           }
         }
@@ -6274,7 +6269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
