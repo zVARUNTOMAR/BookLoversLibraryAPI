@@ -1,6 +1,7 @@
 ﻿using BookLoversLibrary.Repo.DTOs;
 using BookLoversLibrary.Repo.Models;
 using BookLoversLibrary.ServiceLayer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -34,6 +35,7 @@ namespace BookLoversLibraryAPI.Controllers
             }
         }
 
+        
         [HttpGet]
         public async Task<IActionResult> GetUsers() {
 

@@ -43,6 +43,7 @@ namespace BookLoversLibrary.Repo
                 return -1;
             }
             else {
+                user.ResponseTime = DateTime.Now;
                 await _dbContext.users.AddAsync(user);
                 await _dbContext.SaveChangesAsync();
 
@@ -51,7 +52,9 @@ namespace BookLoversLibrary.Repo
         }
         public async Task<IEnumerable<User>> GetUsers()
         {
-            return await _dbContext.users.ToListAsync();
+            var responses =  await _dbContext.users.ToListAsync();
+            responses.Reverse();
+            return responses;
         }
     }
 }

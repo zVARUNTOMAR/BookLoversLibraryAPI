@@ -37,6 +37,12 @@ namespace BookLoversLibraryAPI
 
             services.AddControllers();
 
+            services.AddCors(options => {
+                options.AddPolicy("EnableCORS", builder => {
+                    builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+                });
+            });
+
             services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -77,9 +83,9 @@ namespace BookLoversLibraryAPI
      
             app.UseHttpsRedirection();
 
-            app.UseRouting();
+            app.UseCors("EnableCORS");
 
-            app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
+            app.UseRouting();
 
             app.UseAuthorization();
 
